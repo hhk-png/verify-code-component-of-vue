@@ -1,4 +1,4 @@
 vue verify code component
 
-![.\images\code.png](C:\Users\郝洪坤\Desktop\FrontEnd\verify-code\images\code.png)
+![.\images\code.png](https://github.com/hhk-png/verify-code-component-of-vue/blob/main/images/code.png)
 
